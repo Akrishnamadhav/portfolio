@@ -5,6 +5,9 @@ body{
     padding: 0;
 }
 
+a{
+    font-size: 3rem;
+}
 nav{
     display: flex;
     width: 84%;
